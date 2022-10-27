@@ -1,0 +1,15 @@
+.image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    border-radius: 20%;
+}
+
+img {
+    border-radius:30%;
+}
+
+body {
+    background-color: antiquewhite;
+}
